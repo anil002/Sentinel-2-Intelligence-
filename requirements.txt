@@ -14,3 +14,4 @@ scikit-learn
 seaborn
 matplotlib
 python-dotenv
+setuptools
